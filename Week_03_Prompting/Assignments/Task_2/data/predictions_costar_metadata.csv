@@ -1,0 +1,2 @@
+model_name,execution_time_ms,generated_at,prediction_file,row_count
+Copilot SDK in VS Code,1019.53,2026-10-14T14:14:48.0048943Z,predictions_costar.csv,155
