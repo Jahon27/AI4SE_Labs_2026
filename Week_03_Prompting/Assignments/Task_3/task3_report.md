@@ -9,9 +9,9 @@ I chose **Macro Multiset F1-score**, which measures the overlap between predicte
 **F1 = 2 × TP / (P + G)**
 
 Where:
-- TP — matching rows
-- P — predicted rows
-- G — expected rows
+- TP - matching rows
+- P - predicted rows
+- G - expected rows
 
 If both results are empty, F1 = 1. SQL errors receive F1 = 0. The final score is averaged across 155 questions.
 
